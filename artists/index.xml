@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artists on and them</title>
+    <link>https://and-them.art/artists/</link>
+    <description>Recent content in Artists on and them</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>and them</copyright>
+    <atom:link href="https://and-them.art/artists/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dalton Newbend</title>
+      <link>https://and-them.art/artists/dalton-newbend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://and-them.art/artists/dalton-newbend/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
